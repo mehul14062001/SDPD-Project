@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "232039326865",
+    "project_id": "reme-b470b",
+    "storage_bucket": "reme-b470b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232039326865:android:abef4e5cd1fe9304e2cb30",
+        "android_client_info": {
+          "package_name": "com.example.reme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232039326865-0r57h8ri7ua46kbbnd39443fto5nq9l3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.reme",
+            "certificate_hash": "cd13b19c20312e1e6c14461b646ce0b1233f7f41"
+          }
+        },
+        {
+          "client_id": "232039326865-4gvnmqu2s7g466escidsf62vi8c2sstk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSUmsM5YuTl8xpApadYfBRY40amreAKnE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "232039326865-4gvnmqu2s7g466escidsf62vi8c2sstk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
